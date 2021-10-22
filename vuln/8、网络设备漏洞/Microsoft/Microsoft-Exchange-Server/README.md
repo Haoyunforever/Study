@@ -1,0 +1,4 @@
+- [返回上一级 [Microsoft]](/8、网络设备漏洞/Microsoft)
+- [Microsoft-Exchange-Server](/8、网络设备漏洞/Microsoft/Microsoft-Exchange-Server/)
+  - [CVE-2020-0688-Microsoft-Exchange-Server远程代码执行漏洞](/8、网络设备漏洞/Microsoft/Microsoft-Exchange-Server/CVE-2020-0688-Microsoft-Exchange-Server远程代码执行漏洞.md)
+  - [CVE-2020-17083-Microsoft-Exchange-Server任意代码执行漏洞-POC](/8、网络设备漏洞/Microsoft/Microsoft-Exchange-Server/CVE-2020-17083-Microsoft-Exchange-Server任意代码执行漏洞-POC.md)

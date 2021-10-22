@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>NoSuchKey</Code>
+  <Message>The specified key does not exist.</Message>
+  <RequestId>60FF97354050BF3433E47ED9</RequestId>
+  <HostId>wikioss.peiqi.tech</HostId>
+  <Key>vuln/hw-4.png </Key>
+</Error>

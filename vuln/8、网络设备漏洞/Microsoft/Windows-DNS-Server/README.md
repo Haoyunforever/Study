@@ -1,0 +1,3 @@
+- [返回上一级 [Microsoft]](/8、网络设备漏洞/Microsoft)
+- [Windows-DNS-Server](/8、网络设备漏洞/Microsoft/Windows-DNS-Server/)
+  - [CVE-2020-1350-Windows-DNS-Server蠕虫级远程代码执行漏洞](/8、网络设备漏洞/Microsoft/Windows-DNS-Server/CVE-2020-1350-Windows-DNS-Server蠕虫级远程代码执行漏洞.md)

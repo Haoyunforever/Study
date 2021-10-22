@@ -1,0 +1,7 @@
+- [返回上一级 [5、服务器应用漏洞]](/5、服务器应用漏洞)
+- [Cobub-razor](/5、服务器应用漏洞/Cobub-razor/)
+  - [Cobub-Razor-0.7.2存在跨站请求伪造漏洞](/5、服务器应用漏洞/Cobub-razor/Cobub-Razor-0.7.2存在跨站请求伪造漏洞.md)
+  - [Cobub-Razor-0.7.2越权增加管理员账户](/5、服务器应用漏洞/Cobub-razor/Cobub-Razor-0.7.2越权增加管理员账户.md)
+  - [Cobub-Razor-0.8.0存在SQL注入漏洞](/5、服务器应用漏洞/Cobub-razor/Cobub-Razor-0.8.0存在SQL注入漏洞.md)
+  - [Cobub-Razor-0.8.0存在物理路径泄露漏洞](/5、服务器应用漏洞/Cobub-razor/Cobub-Razor-0.8.0存在物理路径泄露漏洞.md)
+  - [Couch-through-2.0存在路径泄露漏洞](/5、服务器应用漏洞/Cobub-razor/Couch-through-2.0存在路径泄露漏洞.md)

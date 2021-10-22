@@ -1,0 +1,3 @@
+- [返回上一级 [zabbix]](/5、服务器应用漏洞/zabbix)
+- [zabbix后台getshell](/5、服务器应用漏洞/zabbix/zabbix后台getshell/)
+  - [zabbix后台getshell](/5、服务器应用漏洞/zabbix/zabbix后台getshell/zabbix后台getshell.md)

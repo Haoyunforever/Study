@@ -1,0 +1,4 @@
+- [返回上一级 [1、CMS漏洞]](/1、CMS漏洞)
+- [DuomiCMS](/1、CMS漏洞/DuomiCMS/)
+  - [DuomiCMS3.0SQL注入](/1、CMS漏洞/DuomiCMS/DuomiCMS3.0SQL注入.md)
+  - [DuomiCMS3.0前台代码执行](/1、CMS漏洞/DuomiCMS/DuomiCMS3.0前台代码执行.md)

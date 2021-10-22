@@ -1,0 +1,5 @@
+- [返回上一级 [4、Web应用漏洞]](/4、Web应用漏洞)
+- [GitLab](/4、Web应用漏洞/GitLab/)
+  - [GitLab-Graphql邮箱信息泄露漏洞-CVE-2020-26413](/4、Web应用漏洞/GitLab/GitLab-Graphql邮箱信息泄露漏洞-CVE-2020-26413.md)
+  - [GitLab-SSRF漏洞-CVE-2021-22214](/4、Web应用漏洞/GitLab/GitLab-SSRF漏洞-CVE-2021-22214.md)
+  - [POC](/4、Web应用漏洞/GitLab/POC/)

@@ -1,0 +1,2 @@
+- [返回上一级 [Jellyfin]](/4、Web应用漏洞/Jellyfin)
+- [Scan](/4、Web应用漏洞/Jellyfin/Scan/)

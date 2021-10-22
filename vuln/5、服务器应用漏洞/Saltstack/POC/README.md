@@ -1,0 +1,4 @@
+- [返回上一级 [Saltstack]](/5、服务器应用漏洞/Saltstack)
+- [POC](/5、服务器应用漏洞/Saltstack/POC/)
+  - [SaltStack-未授权访问命令执行漏洞-CVE-2020-16846-25592](/5、服务器应用漏洞/Saltstack/POC/SaltStack-未授权访问命令执行漏洞-CVE-2020-16846-25592/)
+  - [Saltstack-远程命令执行-CVE-2020-11651-11652](/5、服务器应用漏洞/Saltstack/POC/Saltstack-远程命令执行-CVE-2020-11651-11652/)

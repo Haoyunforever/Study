@@ -1,0 +1,4 @@
+- [返回上一级 [6、编辑器漏洞]](/6、编辑器漏洞)
+- [Freetextbox-editor](/6、编辑器漏洞/Freetextbox-editor/)
+  - [Freetextbox-Asp.net解析漏洞](/6、编辑器漏洞/Freetextbox-editor/Freetextbox-Asp.net解析漏洞.md)
+  - [Freetextbox目录遍历漏洞](/6、编辑器漏洞/Freetextbox-editor/Freetextbox目录遍历漏洞.md)

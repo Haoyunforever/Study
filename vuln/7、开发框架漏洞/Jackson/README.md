@@ -1,0 +1,4 @@
+- [返回上一级 [7、开发框架漏洞]](/7、开发框架漏洞)
+- [Jackson](/7、开发框架漏洞/Jackson/)
+  - [Jackson反序列化远程代码执行-CVE-2020-24616](/7、开发框架漏洞/Jackson/Jackson反序列化远程代码执行-CVE-2020-24616.md)
+  - [jackson-databind-rce-cve-2020-9548](/7、开发框架漏洞/Jackson/jackson-databind-rce-cve-2020-9548.md)
